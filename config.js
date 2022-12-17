@@ -12,10 +12,10 @@ module.exports = {
     }
   },
   meta: {
-    title: "KingCh1ll",
+    title: "Kaori Café",
     logo: "/favicon.ico",
-    description: "I'm a Roblox game developer (2.1 Years), Discord bot developer (1.3 Years), and a full stack web developer (1 Year). I love to make friends and play Roblox.",
-    site: "https://www.ch1ll.tk/",
+    description: "Kaori Café est un serveur communautaire afin de regrouper une communauté française autours de plusieurs thème une communauté amicale, LGBTQ+ nous avons pour but de faire à ce que tout se sens inclus",
+    site: "https://kaoricafe.fr",
     keywords: [
       "KingCh1ll",
       "King",
@@ -37,31 +37,31 @@ module.exports = {
     label: "Home",
     children: [{
       label: `About`,
-      subLabel: "Wait a minute... who's KingCh1ll?",
+      subLabel: "Attend une minute... c'est quoi Kaori Café?",
       href: "/#about",
     }, {
       label: `Skills`,
-      subLabel: "What is KingCh1ll good in?",
+      subLabel: "Pourquoi rejoindre nôtre communauté?",
       href: "/#skills",
     }]
   }, {
-    label: "Projects",
+    label: "Partenaire",
     href: "/projects",
   }, {
-    label: "More",
+    label: "Plus",
     children: [{
-      label: `Community & Support`,
-      subLabel: "Join Ch1ll's Kingdom for support with Surf Host.",
-      href: "https://ch1ll.dev/discord",
+      label: `Communauté`,
+      subLabel: "Rejoint notre communauté Discord",
+      href: "https://discord.gg/kJhGEA6A5P",
     }]
   }],
   projects: [{
-      name: "SparkV",
+      name: "Kaori",
       bot: true,
-      image: "https://www.sparkv.tk/images/SparkV.webp",
+      image: "https://cdn.discordapp.com/avatars/855107430693077033/3420c15ba9025b959b06bbe7c7301a6d.png?size=4096",
       description: "The bot that has everything! - Leveling • Music • Memes • Moderation • Starboard • Logging • Tickets • AntiScam • Reaction Roles (/panel)",
       link: "https://www.sparkv.tk",
-      role: "Creator",
+      role: "Propriétaire",
       tag: "bot",
     }, {
       name: "Surf Host",
